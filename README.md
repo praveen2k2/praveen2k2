@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Praveen Himasha 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Role/Profession, e.g., Full-Stack Developer, Data Scientist, etc.] who loves to [your interests, e.g., solve problems, build creative projects, etc.].
 
@@ -23,6 +23,8 @@ Welcome to my GitHub profile! I'm a passionate [Your Role/Profession, e.g., Full
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=praveen2k2&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
 
 - LinkedIn: [Your LinkedIn URL]
 - Twitter: [Your Twitter URL]
