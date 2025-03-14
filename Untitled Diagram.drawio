@@ -36,7 +36,7 @@
         <mxCell id="LeG2H7jAoJrrG_gojd1E-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LeG2H7jAoJrrG_gojd1E-15" target="LeG2H7jAoJrrG_gojd1E-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LeG2H7jAoJrrG_gojd1E-15" value="Check for all nodes are connected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-15" value="Check for all nodes of the newly added component can connect connected" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="380" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LeG2H7jAoJrrG_gojd1E-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="LeG2H7jAoJrrG_gojd1E-20">
@@ -50,6 +50,9 @@
         <mxCell id="LeG2H7jAoJrrG_gojd1E-20" value="remove last commponent" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LeG2H7jAoJrrG_gojd1E-22" target="LeG2H7jAoJrrG_gojd1E-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LeG2H7jAoJrrG_gojd1E-22" value="Predict for component" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -61,6 +64,20 @@
         </mxCell>
         <mxCell id="LeG2H7jAoJrrG_gojd1E-24" value="no of iterations&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LeG2H7jAoJrrG_gojd1E-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-29" value="End component/max components" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="290" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-36" value="10" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LeG2H7jAoJrrG_gojd1E-37" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
